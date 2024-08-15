@@ -1,0 +1,140 @@
+Define
+implement
+communicate
+maintain
+Prepare
+present
+Supervise
+Educate
+Ensure
+Develop
+Monitor
+Secure
+Negotiate
+Manage
+Review
+allocate
+assess
+enhance
+Analyse
+apply
+monitor
+review
+report
+anticipate
+Motivate
+encourage
+Identify
+evaluate
+mitigate
+restore
+collect
+document
+practice
+correlate
+work
+communicate
+present
+oversee
+assure
+contribute
+provide
+enforce
+advocate
+handle
+assist
+design
+implement
+audit
+train
+share
+propose
+manage
+lead
+conduct
+explain
+collaborate
+translate
+disseminate
+track
+produce
+elaborate
+advise
+coordinate
+leverage
+articulate
+convey
+automate
+model
+use
+apply
+create
+improve
+establish
+select
+guide
+adapt
+draw
+decompose
+build
+integrate
+evaluate
+test
+verify
+organise
+protect
+follow
+practice
+monitor
+audit
+deliver
+update
+educate
+design
+teach
+train
+promote
+find
+identify
+develop
+motivate
+empower
+utilise
+upgrade
+support
+configure
+solve
+patch
+document
+manage risks
+assess risks
+estimate risks
+select controls
+analyse threats
+assess vulnerabilities
+develop risk management strategies
+propose risk treatment options
+identify threat landscape
+monitor effectiveness
+build risk-aware environments
+communicate risk
+report risks
+enable stakeholders
+recover
+preserve
+inspect
+capture
+reconstruct
+interpret
+customise
+extract
+protect evidence
+explain findings
+exploit vulnerabilities
+perform social engineering
+conduct ethical hacking
+think creatively
+deploy testing tools
+organise test plans
+test compliance
+develop penetration testing techniques
