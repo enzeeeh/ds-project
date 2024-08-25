@@ -1,6 +1,5 @@
 cybersecurity
 Information Security Management System
-ISMS
 security posture
 cybersecurity strategy
 cybersecurity culture
@@ -32,7 +31,7 @@ operational aspects
 operating systems
 servers
 clouds
-log files
+log files   
 data privacy
 data protection
 regulatory frameworks
