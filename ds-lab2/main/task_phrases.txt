@@ -1,8 +1,10 @@
+ability
 adapt
 advise
 allocate
 analyse threats
 Analyse
+Analyses
 anticipate
 apply
 Apply
@@ -11,6 +13,8 @@ assess vulnerabilities
 assess
 Assist
 assure
+Attacks
+attack
 automate
 audit
 build risk-aware environments
@@ -24,7 +28,9 @@ configure
 contribute
 conduct ethical hacking
 conduct
+conducting
 coordinate
+cooperate
 correlate
 create
 customise
@@ -34,6 +40,7 @@ defines
 deliver
 deploy testing tools
 design
+designed
 develop penetration testing techniques
 develop risk management strategies
 develop
@@ -45,11 +52,13 @@ elaborate
 empower
 enable stakeholders
 enhance
+enhancing
 ensure
 enforce
 encourage
 establish
 evaluate
+evaluates
 Evaluate
 explain findings
 explain
@@ -63,12 +72,14 @@ identify threat landscape
 Identify
 improve
 implement
+implemented
 integrate
 interpret
 leverage
 lead
 maintain
 maintains
+maintained
 manage
 manages
 Model
@@ -89,6 +100,9 @@ Produce
 promote
 propose risk treatment options
 propose
+Processes
+processes
+programming
 protect evidence
 protect
 provide
@@ -96,16 +110,20 @@ recover
 reconstruct
 report
 restore
+response
 review
 select controls
 Select
+secure
 share
 solve
 supervise
 support
 teach
+techniques
 test compliance
 Test
+testing
 think creatively
 track
 train

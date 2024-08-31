@@ -1,7 +1,9 @@
+application security
+actionable reports
+architecture
 architectural documentation
 architectural models
 architectural specifications
-artefacts
 assurance reports
 attack vectors
 attackers’ profiles
@@ -15,15 +17,17 @@ audit criteria
 audit integrity
 audit objectives
 audit scope
-assets
+awareness training
 best practices
 business asset management
 business strategy
+business security requirements
 certification reports
 certifications
 clouds
-colleagues
-collaboration
+collaboration 
+communication procedures
+communication 
 compliance auditing
 compliance gaps
 compliance standards
@@ -33,10 +37,20 @@ controls
 correlating events
 creative problem-solving
 CTI platforms
-curricula
+cyber operations
 cyber range environments
+cyber-related activities
 cyber threat hunting
 cyber threat intelligence strategy
+cyber threat intelligence platforms
+cyber threat intelligence
+cyber threats
+Cyber threats
+cyber threat
+cyber assets
+cyber
+cybersecurity architectural
+cybersecurity attack procedures
 cybersecurity awareness
 cybersecurity certification programs
 cybersecurity culture
@@ -46,17 +60,27 @@ cybersecurity plan
 cybersecurity resources
 cybersecurity risks
 cybersecurity simulations
+cybersecurity standards methodologies
 cybersecurity standards
 cybersecurity strategy
 cybersecurity threats
 cybersecurity training
 cybersecurity-related issues
 cybersecurity-related laws
+cybersecurity-related technologies
+cybersecurity attack procedures
 cybersecurity
+data breaches
 data privacy
+data processing
 data protection
+data security
+data
+defensive and offensive
+defensive
 digital evidence
 digital forensics techniques
+digital forensics
 educational programmes
 effective solutions
 emerging threats
@@ -72,12 +96,21 @@ forensic tools
 frameworks
 functional aspects
 functional specifications
+fundamental technologies
+fundamental
 governance processes
 high-level security architecture
+hardware or software security
+hardware and software control
+hardware and software controls
+hardware security
+hardware control
+harware controls
 identification of vulnerabilities
 implementation
 Information Security Management System
 information security management system
+information security
 ineffective controls
 inspection of environments
 integration of security solutions
@@ -87,29 +120,54 @@ intelligence requirements
 investigation policies
 investigation reports
 IT/OT personnel communication
+laws regulations
+laws
+law framework
+law
 learning programmes
+legal regulatory frameworks
+legal regulatory
 legal advice
+legal aspects
 legal framework
+legal and policy
+legal
 log files
+malware analysis
 maintenance reports
 management practices
 maturity models for cybersecurity management
 methodologies
 monitoring
 non-cyber events
+networks security
+network security
+network systems
+network
+offensive and defensive
+offensive
+operating system security
 operating systems
-operation
+operating system
 operational aspects
+operational
+open-source
 patch management
 pedagogical approaches
 penetration testing
 penetration testing reports
 penetration testing tools
 points of failure
+policy
+policies
 preservation of evidence
+protection program
 privacy policies
+privacy compliance
 privacy-by-design
 products
+protocols
+protection
 quality management
 recommendations
 recovering data
@@ -128,50 +186,98 @@ risk management strategies
 risk monitoring
 risk remediation activities
 risk-sharing options
+risks threats
+Secure development
+secure development
+Secure resources
+secure resources
+Secure Operation Centres
+secure operation centres
+secure architecture
 security architecture
+security architectural
+security attack procedures
+security awareness
 security controls
+security certification programs
+security culture
 security documents
+security events
+security implementation
+security incidents
 security measures
 security objectives
+security plan
+security policy
 security policies
 security posture
+security properties
 security reviews
+security requirements
+security resources
+security risks
+security simulations
 security standards compliance
+security standards methodologies
+security standards
+security strategy
+security threats
+security training
 security-by-design
-servers
+security
 service level agreements
 services
 social engineering
+software development lifecycle
+software or hardware security
+software and hardware control
+software and hardware controls
+software control
+software controls
+software security
 solution architectures
 solutions
 stakeholder communication
-stakeholders
-support
-systems
+standards methodologies
+standards tools and protocols
+standards tools
+strategies policies
+strategy policies
+strategies
+strategy
 systems auditing
+systems security
 systems development lifecycle
+systems
+Tactics, Techniques and Procedures
+tactics, techniques and procedures
 Tactics Techniques and Procedures
+tactics techniques and procedures
 teaching methods
 technical analysis
 technical aspects
 technical development
 technical issues
 technical vulnerabilities
-testing
 testing techniques
-threat actors
 threat analysis
 threat campaigns
 threat landscape
 threat modeling
+threat intelligence management
 training activities
 training instruments
 training methods
 training resources
+training
 trainee performance
 unbiased reporting
 vulnerability assessment
 vulnerability exploitation
 virtual labs
+virtual
+vulnerabilities
+Vulnerabilities Attacks
+Vulnerabilities
 weakness identification
 working-life practices

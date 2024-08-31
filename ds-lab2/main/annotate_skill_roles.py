@@ -17,6 +17,13 @@ def load_phrases(file_path):
 task_phrases = load_phrases('ds-lab2\main\\task_phrases.txt')
 skill_phrases = load_phrases('ds-lab2\main\\skill_phrases.txt')
 
+# Function to preprocess text (removes new lines and any extra spaces)
+def preprocess_text(text):
+    text = text.replace('\n', ' ').replace('\r', ' ')  # Remove new lines and carriage returns
+    text = re.sub(r',', '', text)  # Remove commas
+    text = re.sub(r'\s+', ' ', text).strip()  # Replace multiple spaces with a single space
+    return text
+
 # Function to annotate text and extract phrases separately
 def annotate_text(text, task_phrases, skill_phrases):
     task_phrases_found = []
@@ -59,20 +66,27 @@ df = pd.read_excel(file_path2, sheet_name='skill_set')
 all_task_phrases = set()
 all_skill_phrases = set()
 
+# Apply the preprocessing to remove new lines when loading the text columns
+df['mission'] = df['mission'].apply(preprocess_text)
+df['main_tasks'] = df['main_tasks'].apply(preprocess_text)
+df['key_skills'] = df['key_skills'].apply(preprocess_text)
+df['key_knowledge'] = df['key_knowledge'].apply(preprocess_text)
+
 # Annotate and collect task and skill phrases separately for each profile
 df['annotated_mission'], mission_task_phrases, mission_skill_phrases = zip(*df['mission'].apply(lambda x: annotate_text(str(x), task_phrases, skill_phrases)))
 df['annotated_main_tasks'], main_tasks_task_phrases, main_tasks_skill_phrases = zip(*df['main_tasks'].apply(lambda x: annotate_text(str(x), task_phrases, skill_phrases)))
 df['annotated_key_skills'], key_skills_task_phrases, key_skills_skill_phrases = zip(*df['key_skills'].apply(lambda x: annotate_text(str(x), task_phrases, skill_phrases)))
+df['annotated_key_knowledge'], key_knowledge_task_phrases, key_knowledge_skill_phrases = zip(*df['key_knowledge'].apply(lambda x: annotate_text(str(x), task_phrases, skill_phrases)))
 
 # Combine the task and skill phrases for each skill profile (per row)
 df['unique_task_phrases'] = [
-    sorted(set(mission) | set(main) | set(key))
-    for mission, main, key in zip(mission_task_phrases, main_tasks_task_phrases, key_skills_task_phrases)
+    sorted(set(mission) | set(main) | set(key_skill) | set(key_knowledge))
+    for mission, main, key_skill , key_knowledge in zip(mission_task_phrases, main_tasks_task_phrases, key_skills_task_phrases, key_knowledge_task_phrases)
 ]
 
 df['unique_skill_phrases'] = [
-    sorted(set(mission) | set(main) | set(key))
-    for mission, main, key in zip(mission_skill_phrases, main_tasks_skill_phrases, key_skills_skill_phrases)
+    sorted(set(mission) | set(main) | set(key_skill) | set(key_knowledge))
+    for mission, main, key_skill , key_knowledge in zip(mission_skill_phrases, main_tasks_skill_phrases, key_skills_skill_phrases, key_knowledge_skill_phrases)
 ]
 
 # Convert the DataFrame to a dictionary
