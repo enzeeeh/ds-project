@@ -68,7 +68,7 @@ df['annotated_course_detail'], df['task_phrases'], df['skill_phrases'] = zip(*df
 data_dict = df.to_dict(orient='records')
 
 # Save the annotated data to a new Excel file
-df.to_excel('annotated_course_details.xlsx', index=False)
+df.to_excel('ds-lab2/annotated_course_details.xlsx', index=False)
 
 # Save the annotated data to a JSON file
 output_file = 'annotated_course_details.json'

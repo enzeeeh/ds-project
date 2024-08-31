@@ -93,7 +93,7 @@ df['unique_skill_phrases'] = [
 data_dict = df.to_dict(orient='records')
 
 # Save the annotated data to a new Excel file
-df.to_excel('annotated_skill_roles.xlsx', index=False)
+df.to_excel('ds-lab2/annotated_skill_roles.xlsx', index=False)
 
 # Save the annotated data to a JSON file
 output_file = 'annotated_skill_roles.json'
