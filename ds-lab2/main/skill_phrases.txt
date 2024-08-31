@@ -1,177 +1,175 @@
-cybersecurity
-Information Security Management System
-security posture
-cybersecurity strategy
-cybersecurity culture
-security documents
-cybersecurity plan
-cybersecurity incidents
-cybersecurity risks
-cybersecurity-related issues
-cybersecurity resources
-maturity models for cybersecurity management
-cybersecurity threats
-security policies
-cybersecurity-related laws
-security objectives
-security measures
-cybersecurity standards
-methodologies
-frameworks
-recommendations
-best practices
-certifications
-ethical requirements
-resource management
-management practices
-risk management
-technical aspects
-functional aspects
-operational aspects
-operating systems
-servers
-clouds
-log files   
-data privacy
-data protection
-regulatory frameworks
-legal advice
-governance processes
-remediation strategies
-compliance gaps
-privacy policies
-training activities
-staff awareness
-collaboration
-business strategy
-working-life practices
-legal framework
-stakeholders
-colleagues
-cyber threat intelligence strategy
-Intelligence Requirements
-Tactics Techniques and Procedures
-threat actors
-threat campaigns
-threat modeling
-risk mitigation
-cyber threat hunting
-CTI platforms
-non-cyber events
-security-by-design
-privacy-by-design
-architectural models
 architectural documentation
+architectural models
 architectural specifications
-solution architectures
-resilience
-points of failure
-integration of security solutions
-IT/OT personnel communication
-functional specifications
-security reviews
-emerging threats
-systems development lifecycle
-effective solutions
-stakeholder communication
-high-level security architecture
-auditing policy
-auditing standards
+artefacts
+assurance reports
+attack vectors
+attackers’ profiles
 auditing guidelines
 auditing methodologies
-systems auditing
-audit scope
-audit objectives
-audit criteria
-conformity assessment
-assurance reports
-certification reports
-maintenance reports
-evidence collection
-audit integrity
-risk remediation activities
-compliance auditing
-systematic auditing
-auditing tools
+auditing policy
+auditing standards
 auditing techniques
-cybersecurity awareness
-cybersecurity training
-educational programmes
-teaching methods
-training methods
-training instruments
-cybersecurity simulations
-virtual labs
-cyber range environments
-cybersecurity certification programs
-learning programmes
-evaluation programs
-pedagogical approaches
-trainee performance
-training resources
-curricula
-certifications
-technical development
-integration
-testing
-implementation
-operation
-monitoring
-support
-technical issues
-infrastructures
-products
-systems
+auditing tools
+audit criteria
+audit integrity
+audit objectives
+audit scope
 assets
-services
+best practices
+business asset management
+business strategy
+certification reports
+certifications
+clouds
+colleagues
+collaboration
+compliance auditing
+compliance gaps
+compliance standards
+compliance testing
+conformity assessment
 controls
-solutions
+correlating events
+creative problem-solving
+CTI platforms
+curricula
+cyber range environments
+cyber threat hunting
+cyber threat intelligence strategy
+cybersecurity
+cybersecurity awareness
+cybersecurity certification programs
+cybersecurity culture
+cybersecurity events
+cybersecurity incidents
+cybersecurity plan
+cybersecurity resources
+cybersecurity risks
+cybersecurity simulations
+cybersecurity standards
+cybersecurity strategy
+cybersecurity threats
+cybersecurity training
+cybersecurity-related issues
+cybersecurity-related laws
+data privacy
+data protection
+digital evidence
+digital forensics techniques
+educational programmes
+effective solutions
+emerging threats
+ethical hacking
+ethical requirements
+ethics in forensics
+evaluation programs
+evidence collection
+exploit demonstration
+failed compliance
+forensic analysis
+forensic tools
+frameworks
+functional aspects
+functional specifications
+governance processes
+high-level security architecture
+identification of vulnerabilities
+implementation
+Information Security Management System
+ineffective controls
+inspection of environments
+integration
+integration of security solutions
+Intelligence Requirements
+investigation policies
+investigation reports
+IT/OT personnel communication
+learning programmes
+legal advice
+legal framework
+log files
+maintenance reports
+management practices
+maturity models for cybersecurity management
+methodologies
+monitoring
+non-cyber events
+operation
+operating systems
+operational aspects
 patch management
-risk management strategies
-risk treatment options
-risk controls
-threat landscape
-attackers’ profiles
+pedagogical approaches
+penetration testing
+penetration testing reports
+penetration testing tools
+points of failure
+preservation of evidence
+privacy policies
+privacy-by-design
+products
+quality management
+recommendations
+recovering data
+regulatory frameworks
+remediation strategies
+reporting techniques
+resilience
+resource management
 risk analysis
 risk assessment
-risk estimation
-compliance standards
-risk monitoring
 risk-aware environments
+risk controls
+risk estimation
+risk management
+risk management strategies
+risk monitoring
+risk remediation activities
 risk-sharing options
-business asset management
-vulnerability assessment
-threat analysis
-quality management
-digital evidence
-forensic analysis
-unbiased reporting
-artefacts
-investigation reports
-ethics in forensics
-preservation of evidence
-cybersecurity events
-correlating events
-inspection of environments
-digital forensics techniques
-testing techniques
-investigation policies
-forensic tools
-reporting techniques
-penetration testing
-attack vectors
-exploit demonstration
-technical vulnerabilities
-social engineering
-ethical hacking
-penetration testing tools
-technical analysis
-creative problem-solving
-code reviews
-compliance testing
+security architecture
 security controls
-weakness identification
-ineffective controls
-vulnerability exploitation
-penetration testing reports
+security documents
+security measures
+security objectives
+security policies
+security posture
+security reviews
 security standards compliance
+security-by-design
+servers
+service level agreements
+services
+social engineering
+solution architectures
+solutions
+stakeholder communication
+stakeholders
+support
+systems
+systems auditing
+systems development lifecycle
+Tactics Techniques and Procedures
+teaching methods
+technical analysis
+technical aspects
+technical development
+technical issues
+technical vulnerabilities
+testing
+testing techniques
+threat actors
+threat analysis
+threat campaigns
+threat landscape
+threat modeling
+training activities
+training instruments
+training methods
+training resources
+trainee performance
+unbiased reporting
+vulnerability assessment
+vulnerability exploitation
+virtual labs
+weakness identification
+working-life practices

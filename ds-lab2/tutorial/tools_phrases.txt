@@ -1,0 +1,73 @@
+monitoring tools
+research methodologies
+service level agreements (slas)
+incident handling tools
+risk management
+legal tools
+computer programming
+development tools
+computer networks security
+social engineering tools
+advanced persistent threats (apts)
+testing standards and procedures
+responsible disclosure
+secure operation centres (socs)
+security documents
+pedagogical standards
+cyber threat actors
+malware analysis tools
+computer security incident response teams (csirts)
+cybersecurity procedures
+cross-domain knowledge
+evaluation programs
+offensive security practices
+forensics standards
+auditing certifications
+cyber threat intelligence (cti) standards
+cybersecurity controls
+cybersecurity technologies
+risk management tools
+frameworks
+privacy-enhancing technologies (pet)
+auditing tools
+training resources
+tactics, techniques, and procedures (ttps)
+innovation platforms
+forensic analysis procedures
+exploitation tools
+control monitoring tools
+methodologies
+maturity models
+operating systems
+privacy tools
+legacy procedures
+criminal investigation procedures
+certifications
+cybersecurity-related certifications
+security architecture
+compliance standards
+cybersecurity-related technologies
+information security management system (isms)
+regulatory frameworks
+proof of concept tools
+research tools
+conformity standards
+penetration testing frameworks
+cyber range
+defensive security practices
+cybersecurity laws
+resource management
+network security
+multidiscipline frameworks
+scientific publishing platforms
+secure development lifecycle
+cybersecurity attack procedures
+cyber threat intelligence (cti) platforms
+auditing frameworks
+research, development, and innovation (rdi)
+secure coding practices
+penetration testing tools
+servers and clouds
+digital forensics tools
+standards
+cybersecurity policies
