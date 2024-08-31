@@ -37,7 +37,6 @@ curricula
 cyber range environments
 cyber threat hunting
 cyber threat intelligence strategy
-cybersecurity
 cybersecurity awareness
 cybersecurity certification programs
 cybersecurity culture
@@ -53,6 +52,7 @@ cybersecurity threats
 cybersecurity training
 cybersecurity-related issues
 cybersecurity-related laws
+cybersecurity
 data privacy
 data protection
 digital evidence
@@ -77,11 +77,13 @@ high-level security architecture
 identification of vulnerabilities
 implementation
 Information Security Management System
+information security management system
 ineffective controls
 inspection of environments
-integration
 integration of security solutions
+integration
 Intelligence Requirements
+intelligence requirements
 investigation policies
 investigation reports
 IT/OT personnel communication
@@ -95,8 +97,8 @@ maturity models for cybersecurity management
 methodologies
 monitoring
 non-cyber events
-operation
 operating systems
+operation
 operational aspects
 patch management
 pedagogical approaches

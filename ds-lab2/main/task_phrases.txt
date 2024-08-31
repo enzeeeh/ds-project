@@ -18,6 +18,7 @@ build
 capture
 collaborate
 communicate
+communicates
 Convey
 configure
 contribute
@@ -29,6 +30,7 @@ create
 customise
 decompose
 define
+defines
 deliver
 deploy testing tools
 design
@@ -66,7 +68,9 @@ interpret
 leverage
 lead
 maintain
+maintains
 manage
+manages
 Model
 Monitor
 monitor effectiveness
