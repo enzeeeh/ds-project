@@ -96,7 +96,7 @@ data_dict = df.to_dict(orient='records')
 df.to_excel('ds-lab2/annotated_skill_roles.xlsx', index=False)
 
 # Save the annotated data to a JSON file
-output_file = 'annotated_skill_roles.json'
+output_file = 'ds-lab2/annotated_skill_roles.json'
 with open(output_file, 'w') as json_file:
     json.dump(data_dict, json_file, indent=4)
 
