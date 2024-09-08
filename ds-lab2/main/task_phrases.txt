@@ -45,7 +45,6 @@ develop penetration testing techniques
 develop risk management strategies
 develop
 disseminate
-document
 draw
 educate
 elaborate

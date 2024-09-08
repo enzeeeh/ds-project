@@ -138,7 +138,6 @@ maintenance reports
 management practices
 maturity models for cybersecurity management
 methodologies
-monitoring
 non-cyber events
 networks security
 network security
